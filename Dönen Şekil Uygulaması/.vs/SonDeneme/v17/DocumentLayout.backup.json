@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethem\\OneDrive\\Masa\u00FCst\u00FC\\\u0130brahim_Ethem_Ar\u0131n_1230505059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B0CAD0-9611-4CE2-819A-84951DEB8853}|SonDeneme\\SonDeneme.csproj|c:\\users\\ethem\\onedrive\\masa\u00FCst\u00FC\\\u0130brahim_ethem_ar\u0131n_1230505059\\sondeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B0CAD0-9611-4CE2-819A-84951DEB8853}|SonDeneme\\SonDeneme.csproj|solutionrelative:sondeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B0CAD0-9611-4CE2-819A-84951DEB8853}|SonDeneme\\SonDeneme.csproj|C:\\Users\\ethem\\OneDrive\\Masa\u00FCst\u00FC\\\u0130brahim_Ethem_Ar\u0131n_1230505059\\sondeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2B0CAD0-9611-4CE2-819A-84951DEB8853}|SonDeneme\\SonDeneme.csproj|solutionrelative:sondeneme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ethem\\OneDrive\\Masa\u00FCst\u00FC\\\u0130brahim_Ethem_Ar\u0131n_1230505059\\SonDeneme\\Form1.cs",
+              "RelativeDocumentMoniker": "SonDeneme\\Form1.cs",
+              "ToolTip": "C:\\Users\\ethem\\OneDrive\\Masa\u00FCst\u00FC\\\u0130brahim_Ethem_Ar\u0131n_1230505059\\SonDeneme\\Form1.cs",
+              "RelativeToolTip": "SonDeneme\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:32:32.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ethem\\OneDrive\\Masa\u00FCst\u00FC\\\u0130brahim_Ethem_Ar\u0131n_1230505059\\SonDeneme\\Form1.cs",
+              "RelativeDocumentMoniker": "SonDeneme\\Form1.cs",
+              "ToolTip": "C:\\Users\\ethem\\OneDrive\\Masa\u00FCst\u00FC\\SonDeneme\\SonDeneme\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\SonDeneme\\SonDeneme\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:32:22.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
